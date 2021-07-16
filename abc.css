@@ -15,7 +15,7 @@ body {
 .container {
     background-color: #7d32a8;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 15px;
     width: 400px;
 }
 
@@ -47,7 +47,7 @@ h1 {
     /* height: 100%;*/
     background-color: #a47cb1;
     padding: 14;
-    border-radius: 3px;
+    border-radius: 15px;
     color: white;
     outline: none;
     border: none;
@@ -60,7 +60,7 @@ h1 {
     background-color: #eee;
     outline: none;
     border: none;
-    border-radius: 3px 0 0 0;
+    border-radius: 5px 0 0 0;
 }
 
 .p-header button {
@@ -82,7 +82,7 @@ h1 {
     text-align: center;
     outline: none;
     border: none;
-    border-radius: 3px;
+    border-radius: 15px;
     color: #fff;
     cursor: pointer;
     box-shadow: 0 9px #999;
